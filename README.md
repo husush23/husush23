@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
-<img src="Turquoise Simple Modern Linkedin Banner.png"></img>
+<img src="banner.jpeg"></img>
 
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
