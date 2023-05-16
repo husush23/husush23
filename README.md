@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1689206400&v=beta&t=tp8ZtMwu-YPUpjFmFLqT_xXdSApMQo1j2HtxtBJR_Ks)](https://husush23.github.io)
+<img>Turquoise Simple Modern Linkedin Banner.png</img>
+
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 
