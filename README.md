@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
 <img src="banner.jpeg"></img>
 
-<center align="center">Experienced Full-Stack Software Developer specializing in React and Redux. Enthusiastic about chess and state machines. Open to new opportunities.</center>
+<ch2 align="center">A passionate full-stack developer based in Nairobi, Kenya</h2>
 
 
 <p align="left"> <a href="https://twitter.com/husseinkadare2" target="blank"><img src="https://img.shields.io/twitter/follow/husseinkadare2?logo=twitter&style=for-the-badge" alt="husseinkadare2" /></a> </p>
