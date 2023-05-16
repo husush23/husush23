@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
-<ch2 align="center">A passionate full-stack developer based in Nairobi, Kenya</h2>
-
+<h2 align="center">A passionate full-stack developer based in Nairobi, Kenya</h2>
+<br>
 <img src="banner.jpeg"></img>
 
 
