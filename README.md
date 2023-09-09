@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/husush23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/husush23" height="30" width="40" /></a>
 <a href="https://twitter.com/husseinkadare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinkadare2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hussein-kadare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hussein-kadare-8aa1361a8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://pi.spacexdata.com/v3/missions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hussein-kadare-8aa1361a8/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
