@@ -1,27 +1,112 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
-<h2 align="center">A passionate full-stack developer based in Nairobi, Kenya</h2>
-<br>
-<img src="banner.jpeg"></img>
+<h2 align="center">Full-Stack Developer • Product Builder • Tech Problem Solver</h2>
 
-
-
-<p align="left"> <a href="https://twitter.com/husseinkadare2" target="blank"><img src="https://img.shields.io/twitter/follow/husseinkadare2?logo=twitter&style=for-the-badge" alt="husseinkadare2" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/husush23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/husush23" height="30" width="40" /></a>
-<a href="https://twitter.com/husseinkadare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinkadare2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://pi.spacexdata.com/v3/missions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hussein-kadare-8aa1361a8/" height="30" width="40" /></a>
+<p align="center">
+  <img src="banner.jpeg" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me  
+I'm a full-stack developer based in Nairobi, Kenya, specializing in building **production-grade SaaS platforms**, **business management systems**, **POS applications**, **real-estate platforms**, and **high-performance web apps**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husush23&show_icons=true&locale=en&layout=compact" alt="husush23" /></p>
+I focus on:
+- Scalable backend architectures  
+- Modern UI/UX with clean, premium aesthetics  
+- Secure authentication systems  
+- Payments, subscriptions & multi-tenant setups  
+- Complex business logic (POS, inventory, accounting, CRM, real-estate, property management)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husush23&show_icons=true&locale=en" alt="husush23" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husush23&" alt="husush23" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husush23" alt="husush23" /></a> </p>
+### 🔥 Current Tech Stack (Latest)
 
+#### **Frontend**
+- **Next.js 14+ (App Router)**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Shadcn/UI**
+- Zustand / Redux Toolkit  
+- Recharts, Framer Motion, React Hook Form, Zod  
+
+#### **Backend**
+- **Node.js + NestJS** (Modular architecture)
+- **Prisma ORM**
+- **PostgreSQL / MySQL**
+- Redis (Caching, queues, sessions)
+- JWT Auth, RBAC, Multi-tenant setups  
+- Webhooks, background jobs, file uploads
+
+#### **DevOps & Tools**
+- Docker  
+- Vercel, Railway, Render  
+- GitHub Actions  
+- Cloudinary / S3 Storage  
+
+---
+
+### 💳 Payment Integrations & Solutions
+Experienced integrating:
+
+- **Stripe** (Cards, subscriptions, billing)
+- **PayPal** (Express & REST APIs)
+- **M-Pesa (Daraja API)** for Kenya  
+- **Flutterwave & Paystack** (Africa-wide)  
+- Webhooks for real-time transactions  
+- Multi-currency + multi-provider fallback logic  
+
+---
+
+### 🏗️ Recent Projects & Focus Areas
+- Business Management System (POS + Inventory + CRM + Accounting)
+- Real-estate listing platform w/ advanced filtering  
+- Multi-tenant SaaS with custom subdomains (company.yourdomain.com)
+- Property/Tenant management system  
+- Content platforms & dashboard systems  
+- Language-learning platform with video lessons  
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://codepen.io/husush23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/husseinkadare2" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/hussein-kadare-8aa1361a8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+</p>
+
+---
+
+### 💡 Philosophy  
+I build software that is:
+- Scalable  
+- Maintainable  
+- Cleanly designed  
+- Secure  
+- Fast & user-focused  
+
+If you're building a product, SaaS, or internal business system — let's connect.
+
+---
